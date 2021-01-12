@@ -26,10 +26,10 @@ techniques. Your app will:
 To get started, check out the [codelab instruction][codelab]
 
 ## How to run project
--- Download project files to local machine.
--- Go to project folder and run : npm install
--- Next run : node server.js
--- Open browser to port: http://localhost:8000/
+* Download project files to local machine.
+* Go to project folder and run : npm install
+* Next run : node server.js
+* Open browser to port: http://localhost:8000/
 
 ## Feedback
 
