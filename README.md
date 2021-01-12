@@ -1,7 +1,7 @@
-# Your First Progressive Web App Codelab
+# First Progressive Web App Codelab
 
 These are the resource files needed for the
-[Your First Progressive Web App][codelab] codelab.
+[First Progressive Web App][codelab] codelab.
 
 In this codelab, you'll  build a weather web app using Progressive Web App
 techniques. Your app will:
@@ -25,6 +25,11 @@ techniques. Your app will:
 
 To get started, check out the [codelab instruction][codelab]
 
+## How to run project
+-- Download project files to local machine.
+-- Go to project folder and run : npm install
+-- Next run : node server.js
+-- Open browser to port: http://localhost:8000/
 
 ## Feedback
 
